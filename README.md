@@ -30,9 +30,17 @@ The second part of the project involves creating a string manipulation library i
  ![Screenshot 2024-08-24 201147](https://github.com/user-attachments/assets/d9744d1f-f98b-4307-b288-a4e3be4cd14f)
 
 ## How To Run
-# Clone this repository.
 ```bash
+# Clone this repository.
 git clone https://github.com/Bendavidian/pstrings.git
+# Go into the repository.
+cd YourRepo
+# Compile using makefile.
+make
+# Run the program on Linux:
+./a.out
+# Run the program on Windows:
+a.out
 
 
 
