@@ -32,7 +32,8 @@ The second part of the project involves creating a string manipulation library i
 ## How To Run
 # Clone this repository.
 ```bash
-git clone 
+git clone https://github.com/Bendavidian/pstrings.git
+
 
 
 
