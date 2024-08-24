@@ -33,23 +33,23 @@ The second part of the project involves creating a string manipulation library i
 ```bash
 # Clone this repository.
 git clone https://github.com/Bendavidian/pstrings.git
-\```
+
 ```bash
 # Go into the repository.
 cd YourRepo
-\```
+
 ```bash
 # Compile using makefile.
 make
-\```
+
 ```bash
 # Run the program on Linux:
 ./a.out
-\```
+
 ```bash
 # Run the program on Windows:
 a.out
-\```
+
 
 
 
