@@ -45,12 +45,3 @@ make
 
 # Run the program on Windows:
 a.out
-
-
-
-
-
-
-
-
-
